@@ -17,7 +17,7 @@ GLUON_SITE_PACKAGES := \
 	gluon-luci-private-wifi \
 	gluon-luci-wifi-config \
 	gluon-next-node \
-	gluon-mesh-batman-adv-14 \
+	gluon-mesh-batman-adv-15 \
 	gluon-mesh-vpn-fastd \
 	gluon-radvd \
 	gluon-status-page \
@@ -26,6 +26,4 @@ GLUON_SITE_PACKAGES := \
 	iptables \
 	iwinfo
 	 
-
-GLUON_PRIORITY ?= 3
-GLUON_LANGS ?= en de
+GLUON_LANGS ?= de en
