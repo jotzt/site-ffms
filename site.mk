@@ -24,7 +24,8 @@ GLUON_SITE_PACKAGES := \
 	gluon-status-page \
 	haveged \
 	iptables \
-	iwinfo
+	iwinfo \
+	gluon-polygon-matcher
 	 
 
 GLUON_PRIORITY ?= 3
