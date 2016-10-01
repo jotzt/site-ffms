@@ -1,0 +1,4 @@
+nguage: bash
+sudo: false
+script: 
+     - ./build.sh
