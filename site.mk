@@ -26,7 +26,6 @@ GLUON_SITE_PACKAGES := \
 	gluon-tunneldigger-watchdog \
 	gluon-migrate-vpn \
 	iwinfo \
-	gluon-ssid-changer \
 	gluon-config-mode-show-mac \
 	gluon-rfkill-disable
 
