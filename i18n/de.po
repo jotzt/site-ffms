@@ -25,7 +25,7 @@ msgstr ""
 
 msgid "gluon-config-mode:reboot"
 msgstr ""
-"<p>Dein Freifunk-Router <em><%= pcdata(hostname) %> <%= pcdata(sysconfig.primary_mac) %> <%= string.gsub(sysconfig.primary_mac, ':', '') %> </em> startet gerade neu und wird "
+"<p>Dein Freifunk-Router <em><%= pcdata(hostname) %> </em> startet gerade neu und wird "
 "anschließend versuchen, sich mit anderen Freifunk-Router in seiner Nähe zu "
 "verbinden. Weitere Informationen zur "
 "Münsteraner Freifunk-Community findest du auf "
